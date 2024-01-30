@@ -1,4 +1,4 @@
-💉📃 - DLL Injector with GUI
+#💉📃 - DLL Injector with GUI
 
 ## Description
 This project is a DLL Injector built in C++ with a graphical user interface (GUI). It's designed as an educational tool for understanding malware development and software security. The injector allows for the dynamic loading of DLLs into a running process.
